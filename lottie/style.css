@@ -1,0 +1,22 @@
+html {
+    
+    /* width: 100%; */
+    height: 100%;
+}
+
+* {
+    background-color: #84beee;
+    width: 100%;
+    /* height: 100%; */
+    margin: 0;
+}
+
+.title {
+    font-weight: 100;
+    font-size: 3em;
+    font-family: sans-serif;
+}
+
+.btn__group {
+    margin-top: 0.5em;
+}
